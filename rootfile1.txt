@@ -1,3 +1,7 @@
 riga1
+<<<<<<< HEAD
 riga2
 riga3
+=======
+riga2
+>>>>>>> upstream/master
